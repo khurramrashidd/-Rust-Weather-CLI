@@ -76,22 +76,6 @@ Temperature: 30.4°C
 Wind Speed: 11 km/h
 ```
 
----
-
-## 📸 Output Screenshot
-
-
-
-```
-docs/weather-output.png
-```
-
-Example placeholder:
-
-![Weather CLI Output](docs/weather-output.png)
-
----
-
 ## 📦 Dependencies
 
 Add the following to `Cargo.toml`:
